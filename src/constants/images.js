@@ -22,6 +22,8 @@ import award05 from '../assets/award05.png';
 import quote from '../assets/quote.png';
 import richstaurant from '../assets/richstaurant.png';
 
+
+
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
   bg,
