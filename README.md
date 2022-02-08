@@ -3,8 +3,6 @@
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
